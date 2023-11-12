@@ -108,6 +108,6 @@ I'm definitely learning Sass/SCSS simply because I tried and I like how efficien
 ## Author
 
 - Website - [I don't have a website for now, I'm planning to create one soon!]()
-- Frontend Mentor - [@nerometa](https://www.frontendmentor.io/profile/nerometa)
-- GitHub - [@Ahmed5xp](https://github.com/Ahmed5xp)
+- Frontend Mentor - [@Ahmed5xp - frontendmentor](https://www.frontendmentor.io/profile/Ahmed5xp)
+- GitHub - [@Ahmed5xp - github](https://github.com/Ahmed5xp)
 
