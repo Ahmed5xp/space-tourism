@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/solution-space-tourism-website-qU5e3Aju97)
+- Solution URL: [Solution](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3)
 - Live Site URL: [Github](https://ahmed5xp.github.io/space-tourism/)
 
 
