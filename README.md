@@ -11,6 +11,7 @@ This is a solution to the [Space tourism website challenge on Frontend Mentor](h
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Links](#links)
+  - [screenshot](#screenshot)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -33,6 +34,9 @@ Users should be able to:
 - Solution URL: [Solution](https://www.frontendmentor.io/solutions/solution-space-tourism-website-qU5e3Aju97)
 - Live Site URL: [Github](https://ahmed5xp.github.io/space-tourism/)
 
+
+### screenshot 
+![](CAPTURE.PNG)
 ## My process
 
 ### Built with
