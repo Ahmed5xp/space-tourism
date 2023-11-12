@@ -36,7 +36,7 @@ Users should be able to:
 
 
 ### screenshot 
-![](CAPTURE.PNG)
+![](Capture.PNG)
 ## My process
 
 ### Built with
